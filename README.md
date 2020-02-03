@@ -1,5 +1,3 @@
-# Recommender-System-using-Kubeflow-on-GCP
-Recommender System hosted on Kubeflow Containers using GCP's Kubernetes as a service
 # Recommender System for Team Assignment
 
 This is a system that is intended to provide managers with recommendations on employees, for certain roles, that they could consider when forming a team. This repository is a step by step guide for implementing this system.
